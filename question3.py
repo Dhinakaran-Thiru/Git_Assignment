@@ -8,4 +8,8 @@ num2 = 30
 
 print(is_perfect_square(num1))  # Output: True (25 is a perfect square)
 print(is_perfect_square(num2))  # Output: False (30 is not a perfect square)
+<<<<<<< HEAD
 print("something but do nothing")
+=======
+print(do some changes)
+>>>>>>> aed8b75dc022910a426a4e8f477bd06c3752faf0
