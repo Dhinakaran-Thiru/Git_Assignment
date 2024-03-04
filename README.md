@@ -16,3 +16,10 @@ switch back to main branch using git checkout main
 after i merged using git merge 
 then i used git pull to check whether any other files are addded
 then i commit changes  and push it to the original branch
+
+Question 3
+At first i have created new feature branch using git checkout -b newbranch1
+it switched to new branch ,there i created one file ,add and commmit the changes to the new branch
+i pushed that to that new branch.Atfer i created pull request in remote repo and merge repo
+in main branch there i used same file and edited it,add and commit the file in the master branch
+then i try to push the file (pull request conflict) there i am using git rebase) there i can using (pull git) then adding the same files(git add .),then commit and then i pushed the same file in main branch.
