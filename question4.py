@@ -17,3 +17,7 @@ if is_prime(number):
     print(number, "is a prime number")
 else:
     print(number, "is not a prime number")
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3622756 (one file commited)
