@@ -13,3 +13,4 @@ string3 = "hello"
 print(is_palindrome(string1))  # Output: True
 print(is_palindrome(string2))  # Output: True
 print(is_palindrome(string3))  # Output: False
+i edited in that file using main branch
