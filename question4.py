@@ -17,6 +17,11 @@ if is_prime(number):
     print(number, "is a prime number")
 else:
     print(number, "is not a prime number")
+<<<<<<< HEAD
+=======
+print("commited this 2nd time")
+print("commited this 3rd time")
+>>>>>>> cb03169 (another last file commited)
 
  3622756 (one file commited)
 print("commited this 2nd time")
