@@ -18,6 +18,7 @@ if is_prime(number):
 else:
     print(number, "is not a prime number")
 
+<<<<<<< HEAD
 print("commited this 2nd time")
 print("commited this 3rd time")
 
@@ -26,3 +27,5 @@ print("commited this 3rd time")
  newbranch2
 
 
+=======
+>>>>>>> 3622756 (one file commited)
