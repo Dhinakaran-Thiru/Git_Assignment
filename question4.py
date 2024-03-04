@@ -18,3 +18,4 @@ if is_prime(number):
 else:
     print(number, "is not a prime number")
 print(" i have commited some changes over there")
+print(" i recommited the already done changes")
