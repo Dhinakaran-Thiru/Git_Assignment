@@ -19,6 +19,7 @@ else:
     print(number, "is not a prime number")
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 >>>>>>> 3622756 (one file commited)
@@ -27,3 +28,6 @@ print("commited this 2nd time")
 print("commited this 3rd time")
 
 >>>>>>> newbranch2
+=======
+
+>>>>>>> 3622756 (one file commited)
