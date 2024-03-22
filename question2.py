@@ -4,7 +4,7 @@ def is_palindrome(s):
     
     # Compare the string with its reverse
     return s == s[::-1]
-
+ 
 # Example usage:
 string1 = "A man, a plan, a canal, Panama!"
 string2 = "racecar"
